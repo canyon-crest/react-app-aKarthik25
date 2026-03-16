@@ -3,7 +3,7 @@ import Bowl from '../images/bowl.png';
 import Fidget from '../images/fidget.png'
 import Rattle from '../images/rattle.png'
 import Skateboard from '../images/skateboard.png'
-const imageReveal = [
+const images = [
     Bowl,
     Fidget,
     Rattle,
