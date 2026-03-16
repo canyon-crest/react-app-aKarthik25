@@ -1,4 +1,5 @@
 import './Card.css'
+import React from 'react'
 import { useState } from 'react'
 function Card({name, description}){
 

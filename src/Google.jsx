@@ -6,7 +6,7 @@ import { collection, getDocs } from 'firebase/firestore'; // Firestore methods
 
 function Google() {
   // State to hold the logged-in user
-  const [user, setUser] = useState(null);
+  const [user, setUser] = useState(0);
 
   // State to hold messages from Firestore
   const [messages, setMessages] = useState([]);
